@@ -1,4 +1,4 @@
-# Artigo Management Application
+# MEU BLOG
 
 Este projeto é uma aplicação completa para o gerenciamento de artigos, permitindo a criação, validação e persistência de dados em um banco de dados MongoDB. O projeto é dividido em duas partes: **Frontend** e **Backend**.
 
